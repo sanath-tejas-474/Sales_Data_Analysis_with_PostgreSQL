@@ -97,10 +97,4 @@ The analysis provided by these queries can help businesses:
 - Improve marketing strategies by targeting the right customer segments.
 - Enhance operational efficiency by analyzing branch performance.
 
-## Contributing
 
-Contributions are welcome! If you have suggestions for additional queries or improvements to the existing analysis, please fork the repository, create a new branch, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
